@@ -1,0 +1,15 @@
+﻿@page
+@model aspDotNetAppp.Pages.univeristies.StudentsNotFoundModel
+@{
+}
+<h1>Students Not Found</h1>
+<form method="post" class="form-group">
+    <input type="hidden" asp-for="@Model.UniID" />
+    <label>Your Name</label>
+    <input type="text" class="form-control" asp-for="@Model.stud.name" />
+    <label>Your Grades</label>
+    <input type="text" class="form-control" asp-for="@Model.stud.grades" />
+    <input type="hidden" asp-for="@Model.create" />
+    <button type="submit" class="btn btn-primary">Finish</button>
+</form>
+<a class="btn btn-primary" asp-page="./Univerties">Back To Univeristies</a>

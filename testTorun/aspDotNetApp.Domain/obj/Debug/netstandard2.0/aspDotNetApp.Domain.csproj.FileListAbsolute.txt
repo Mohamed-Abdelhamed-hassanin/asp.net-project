@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\bin\Debug\netstandard2.0\aspDotNetApp.Domain.deps.json
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\bin\Debug\netstandard2.0\aspDotNetApp.Domain.dll
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\bin\Debug\netstandard2.0\aspDotNetApp.Domain.pdb
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\obj\Debug\netstandard2.0\aspDotNetApp.Domain.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\obj\Debug\netstandard2.0\aspDotNetApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\obj\Debug\netstandard2.0\aspDotNetApp.Domain.AssemblyInfo.cs
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\obj\Debug\netstandard2.0\aspDotNetApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\obj\Debug\netstandard2.0\aspDotNetApp.Domain.dll
+C:\Users\pc\source\repos\testTorun\aspDotNetApp.Domain\obj\Debug\netstandard2.0\aspDotNetApp.Domain.pdb

@@ -1,0 +1,13 @@
+﻿@page
+@model aspDotNetAppp.Pages.univeristies.EditAndCreateStudentsModel
+@{
+}
+<form method="post"class="form-group">
+    <label>Your name</label>
+    <input type="text" class="form-control"asp-for="@Model.AddedName" />
+    <label>Your Name</label>
+    <input type="text" class="form-control"asp-for="@Model.AddedAddress" />
+    <label>Your Grades</label>
+    <input type="text"class="form-control" asp-for="@Model.AddedGrades" />
+    <button type="submit"class="btn btn-primary">Finish</button>
+</form>

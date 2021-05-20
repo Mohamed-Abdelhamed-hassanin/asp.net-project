@@ -1,0 +1,67 @@
+﻿@page
+@model testTorun.Pages.univeristies.UnivertiesModel
+@{
+}
+<form method="get" class="form-group">
+
+    <input class="form-control" type="search" placeholder="search here" asp-for="searchByName" />
+
+    <a class="btn btn-danger"asp-page="./Univerties" asp-route-search="reset">reset</a>
+    <button class="btn btn-primary"  value="search">search</button>
+
+
+</form >
+<table class="table">
+    <tr>
+        <td class="font-weight-bold">ID</td>
+        <td class="font-weight-bold">NAME</td>
+        <td class="font-weight-bold">ADDRESS</td>
+        <td class="font-weight-bold">STUDENTS</td>
+        <td class="font-weight-bold">COUNT OF STUDENTS</td>
+        <td class="font-weight-bold">DETAILS</td>
+        <td class="font-weight-bold">EDIT</td>
+        <td class="font-weight-bold">DELETE</td>
+    </tr>
+
+    @foreach (var uni in Model.Univeristies)
+    {
+<tr>
+    <td>@uni.id</td>
+    <td>@uni.name</td>
+    <td>@uni.address</td>
+    @if (uni.students.Count == 0)
+    {
+        <td><a asp-page="./StudentsNotFound"asp-route-create="@true"asp-route-StudentID="@uni.id" asp-route-UniID="@uni.id">Students</a></td>
+    }
+    else
+    {
+        <td><a asp-page="./Students" asp-route-StudentID="@uni.id" asp-route-UniID="@uni.id">Students</a></td>
+    }
+    <td>@uni.students.Count</td>
+    <td>
+        <a asp-page="./details" asp-route-IdForUniveristy="@uni.id">
+            details
+        </a>
+    <td>
+        <a asp-page="./Edit" asp-route-IdForUniveristy="@uni.id">
+            Edit
+        </a>
+    </td>
+    <td>
+        <a asp-page="./Univerties" asp-route-IdForDelete="@uni.id">
+            Delete
+        </a>
+    </td>
+</tr>
+
+
+    }
+</table>
+<br />
+<h2>Add New Univeristy </h2>
+@*<form method="post">
+    <input class="form-control" type="text" placeholder="Univeristy name"asp-for="AddedName">
+    <input class="form-control" type="text"placeholder="Address"asp-for="AddedAddress">
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>*@
+<a asp-page="./Edit" class="btn btn-primary">Create Univeristy</a>

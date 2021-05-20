@@ -1,0 +1,19 @@
+﻿@page
+@model aspDotNetAppp.Pages.univeristies.EditModel
+@{
+}
+<form method="post">
+    <input type="hidden" asp-for="@Model.EditFlag" />
+    <a class="btn btn-danger" asp-page="./Univerties">GO BACK</a>
+    <br /><br />
+    <input type="hidden" asp-for="@Model.uni.id." />
+    <label>NAME:</label>
+    <input type="text" class="input-group" asp-for="@Model.uni.name"/>
+    <label>ADDRESS:</label>
+    <input type="text" class="input-group" asp-for="@Model.uni.address"/>
+    <br /><br />
+    <button  type="submit" class="btn btn-primary">Finish</button>
+
+</form>
+
+

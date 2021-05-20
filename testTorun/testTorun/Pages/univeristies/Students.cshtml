@@ -1,0 +1,50 @@
+﻿@page
+@model aspDotNetAppp.Pages.univeristies.StudentsModel
+@{
+}
+<form class="form-group" asp-page-handler="Search" method="post">
+    <input type="hidden" asp-for="@Model.UniID" />
+    <input class="form-control" type="search" asp-for="@Model.SearchValue" />
+    <button type="submit" class="btn btn-primary" asp-page-handler="Search">Search </button>
+    <button type="submit" asp-route-search="reset" asp-page-handler="Search" class="btn btn-primary">reset</button>
+</form>
+<p>STUDENTS</p>
+<table class="table">
+    <tr>
+        <td class="font-weight-bold">ID</td>
+        <td class="font-weight-bold">NAME</td>
+        <td class="font-weight-bold">Grades</td>
+        <td class="font-weight-bold">EDIT</td>
+        <td class="font-weight-bold">DELETE</td>
+    </tr>
+    @foreach (var stud in Model.AllStudents)
+    {
+        <tr>
+
+            <td>@stud.id</td>
+            <td>@stud.name</td>
+            <td>@stud.grades</td>
+            
+            <td><a asp-page="./StudentsNotFound"asp-route-UniID="@stud.id">Edit</a></td>
+            <form method="post">
+                <td><button class="btn btn-primary" type="submit" asp-page-handler="Delete" asp-route-StudentID="@stud.id">Delete</button></td>
+            </form>
+            
+
+        </tr>
+    }
+</table>
+<h2>Add Students</h2>
+
+<form asp-page-handler="Stud" method="post" class="form-group">
+    <input type="hidden" asp-for="@Model.UniID" />
+    <label>Your Name</label>
+    <input type="text" class="form-control" asp-for="@Model.stud.name" />
+    <label>Your Grades</label>
+    <input type="text" class="form-control" asp-for="@Model.stud.grades" />
+    <button asp-page-handler="Stud"  type="submit" class="btn btn-primary">Finish</button>
+</form>
+<a class="btn btn-primary" asp-page="./Univerties">
+    back
+</a>
+
