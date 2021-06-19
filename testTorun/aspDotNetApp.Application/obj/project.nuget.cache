@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRwfioevSrRUrqSKjGjRJsZ0MYxkQVcPZiJddjM7fzYTqv8zQgeEQZa5Ial7gL/FjduAUcW/0Ir8+Njw2zb1/A==",
+  "dgSpecHash": "xZuC60Ct58KjKa0jF8klN7SLSxlI8of6qsqHC8t/NX/q2zz0QBemQBVWnNeykVKGywsSwC1CZdS9TeHa4G1A+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

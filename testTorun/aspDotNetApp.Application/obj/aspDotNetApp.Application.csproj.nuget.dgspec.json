@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj": {}
+    "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj": {
+    "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj",
         "projectName": "aspDotNetApp.Application",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Application\\aspDotNetApp.Application.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Application\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj": {
-                "projectPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj"
+              "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj"
               },
-              "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj"
+              "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj": {
+    "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj",
         "projectName": "aspDotNetApp.Data",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Data\\aspDotNetApp.Data.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj"
+              "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj": {
+    "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj",
         "projectName": "aspDotNetApp.Domain",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

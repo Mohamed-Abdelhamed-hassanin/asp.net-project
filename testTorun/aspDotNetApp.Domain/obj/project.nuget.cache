@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tyv0V31D6KdWaGk+fvvav+vz+TC2uAicnwKugSXRyqjywbHonHbFMxnVOnuWCvG4Tbh9DzboEjNF3xueSn04gw==",
+  "dgSpecHash": "mWyCvuX/AOafJkr1Xxj6FDlNFD2rXW79lgDOsNSaQazruvp7dA6Dsk8xoD5isZds8WtXGcbxBXejvBpQg6Diaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\New folder (4)\\asp.net-project\\testTorun\\aspDotNetApp.Domain\\aspDotNetApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

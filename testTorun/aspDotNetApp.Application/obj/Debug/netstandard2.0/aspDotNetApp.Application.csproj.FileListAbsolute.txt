@@ -12,3 +12,17 @@ C:\Users\pc\source\repos\testTorun\aspDotNetApp.Application\obj\Debug\netstandar
 C:\Users\pc\source\repos\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.pdb
 C:\Users\pc\source\repos\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Data.dll
 C:\Users\pc\source\repos\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Data.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Application.deps.json
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Application.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Application.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Data.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Domain.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Data.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\bin\Debug\netstandard2.0\aspDotNetApp.Domain.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.AssemblyInfo.cs
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.csproj.CopyComplete
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Application\obj\Debug\netstandard2.0\aspDotNetApp.Application.pdb

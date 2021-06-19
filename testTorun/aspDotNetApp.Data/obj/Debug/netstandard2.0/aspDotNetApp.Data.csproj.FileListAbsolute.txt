@@ -10,3 +10,15 @@ C:\Users\pc\source\repos\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\as
 C:\Users\pc\source\repos\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.csproj.CopyComplete
 C:\Users\pc\source\repos\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.dll
 C:\Users\pc\source\repos\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\bin\Debug\netstandard2.0\aspDotNetApp.Data.deps.json
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\bin\Debug\netstandard2.0\aspDotNetApp.Data.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\bin\Debug\netstandard2.0\aspDotNetApp.Data.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\bin\Debug\netstandard2.0\aspDotNetApp.Domain.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\bin\Debug\netstandard2.0\aspDotNetApp.Domain.pdb
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.AssemblyInfo.cs
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.csproj.CopyComplete
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.dll
+C:\Users\pc\Desktop\New folder (4)\asp.net-project\testTorun\aspDotNetApp.Data\obj\Debug\netstandard2.0\aspDotNetApp.Data.pdb
